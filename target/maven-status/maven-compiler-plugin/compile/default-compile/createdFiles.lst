@@ -1,0 +1,10 @@
+com\service\auth\service\AuthService.class
+com\service\auth\model\User.class
+com\service\auth\data\UserSessions.class
+com\service\auth\data\UserStore.class
+com\service\auth\security\SecurityInterceptor.class
+com\service\auth\shared\Constants.class
+com\service\auth\model\SessionObject.class
+com\service\auth\exception\ThrowableExceptionMapper.class
+com\service\auth\exception\ServiceExceptionHandler.class
+com\service\auth\exception\ServiceException.class
